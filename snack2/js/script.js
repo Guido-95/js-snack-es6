@@ -47,7 +47,6 @@ var squadreModificato = [];
 for (var i = 0; i < arrayOggettiSquadre.length; i++) {
     var {nome, falliSubiti} = arrayOggettiSquadre[i]; 
     squadreModificato.push({nome, falliSubiti});
-    console.log(nome, falliSubiti);
 }
 
 console.log("squadre con solo nomi e falli",squadreModificato);
