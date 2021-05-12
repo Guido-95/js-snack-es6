@@ -19,7 +19,7 @@ var bici = [
 ]
 
 
-// destructuring
+// destrutturazione
 var [primaBici] = bici;
 
 
